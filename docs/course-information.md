@@ -25,7 +25,7 @@ PSTAT 234 will be taught as a graduate student class. You will be expected to [_
 
 As compared to PSTAT 134, there will be
 
-* More open-ended assigments (mini-projects)
+* More open-ended assignments (mini-projects)
 * More theoretical treatment of concepts and methodologies
 * Notebook interactivity (widgets and visualizations)
 * Tools and practices for research reproducibility
@@ -34,7 +34,7 @@ You will also be asked to learn about using various software tools on your own (
 
 ### Computing Tools
 
-Programming/scripting is a significant portion of this class. Below is a list of my expectations.
+Programming/scripting is a significant portion of this class. Below are my expectations.
 
 * _Required_: Python at a level comparable to
     * [http://swcarpentry.github.io/python-novice-inflammation/](http://swcarpentry.github.io/python-novice-inflammation/)
