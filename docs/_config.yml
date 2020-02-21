@@ -2,7 +2,7 @@ title: "PSTAT 234 : Statistical Data Science"
 author:
   name: Sang-Yun Oh
   email: syoh-at-ucsb-dot-edu
-description: > # this means to ignore newlines until "show_excerpts:"
+description: >-
   PSTAT 234: Statistical Data Science
   (Spring 2020)
 
@@ -16,7 +16,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    # github:  jekyll
+    github: UCSB-PSTAT-234
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
