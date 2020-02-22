@@ -34,7 +34,7 @@ You will also be asked to learn about using various software tools on your own (
 
 ### Computing Tools
 
-Programming/scripting is a significant portion of this class. Below are my expectations.
+Programming/scripting is a significant portion of this class. Prior knowledge of these tools are not required; however, sufficient programming proficiency to self-learn the following material is required:
 
 * _Required_: Python at a level comparable to
     * [http://swcarpentry.github.io/python-novice-inflammation/](http://swcarpentry.github.io/python-novice-inflammation/)
@@ -46,5 +46,4 @@ Programming/scripting is a significant portion of this class. Below are my expec
 * _Recommended_: Unix shell at a level comparable to
     * [http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)
 
-Prior knowledge of Git and Unix shell is not critical; however, you will be asked to learn on your own as you go.
-
+If you have not been exposed to these tools, you are strongly encouraged to go through above Software Carpentry lessons.
