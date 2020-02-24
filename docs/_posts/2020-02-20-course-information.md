@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Course information"
+title: "Course information updated"
 categories: announcement
 ---
 
