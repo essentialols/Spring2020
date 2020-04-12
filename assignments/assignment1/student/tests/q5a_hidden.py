@@ -1,4 +1,4 @@
-test = {   'hidden': False,
+test = {   'hidden': True,
     'name': 'q5a_hidden',
     'points': 5,
     'suites': [   {   'cases': [],

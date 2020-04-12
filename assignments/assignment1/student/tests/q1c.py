@@ -4,7 +4,7 @@ test = {   'hidden': False,
     'suites': [   {   'cases': [   {   'code': '>>> \n'
                                                '>>> '
                                                "len(election_sub['bin'].unique())\n"
-                                               '20',
+                                               '19',
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,
