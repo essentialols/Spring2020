@@ -6,8 +6,9 @@ test = {   'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> \n'
                                                '>>> '
-                                               'set(tmpdf.columns)-set(allaqi.columns)\n'
-                                               "{'County', 'State'}",
+                                               '(set(tmpdf.columns)-set(allaqi.columns)) '
+                                               "== {'County', 'State'}\n"
+                                               'True',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> \n'
