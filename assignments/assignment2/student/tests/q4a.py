@@ -1,4 +1,4 @@
-test = {   'hidden': False,
+test = {   'hidden': True,
     'name': 'q4a',
     'points': 10,
     'suites': [   {   'cases': [   {   'code': '>>> \n>>> len(allaqi)\n38479',
