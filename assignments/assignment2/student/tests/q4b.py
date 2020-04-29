@@ -185,7 +185,7 @@ test = {   'hidden': True,
                                                '(set(worstaqi.columns.to_list()) '
                                                "- set(cols)) == {'County', "
                                                "'State'}\n"
-                                               "{'County', 'State'}",
+                                               'True',
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,
